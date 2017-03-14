@@ -6,3 +6,5 @@ print '''
 this
 is
 strange '''
+
+#'''
